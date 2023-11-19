@@ -1,7 +1,7 @@
 ---
 title: "BBEdit: The best text editor for Mac?"
 date: 2023-05-27T14:14:04+10:00
-draft: true
+draft: false
 ---
 
 You may be wondering: what is BBEdit? Basically, BBEdit is a text editor made by Bare Bones Software. Have you heard of TextWrangler? Well, BBEdit is made by the same people!
